@@ -16,7 +16,7 @@
 
 运行 main.py
 
-![image-20210520010750487](https://hanayuzu-images.oss-cn-hangzhou.aliyuncs.com/images/image-20210520010750487.png)
+
 
 
 
