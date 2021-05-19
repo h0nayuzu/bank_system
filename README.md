@@ -1,6 +1,3 @@
-# bank_system
-这是个tkinter加mysql的银行管理系统
-
 # python3 + mysql + tkinter 银行管理系统
 
 需要安装 tkinter库
