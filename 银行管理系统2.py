@@ -1,5 +1,4 @@
 # -*- coding = utf-8 -*-
-# Author: 物联网203黄雨洋
 # @Time :2021/5/17 9:40
 # @Author: Hanayuzu
 # @File :银行管理系统2.0
