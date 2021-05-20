@@ -1,6 +1,7 @@
 # python3 + mysql + tkinter 银行管理系统
 
-需要安装 tkinter库
+pip install tkinter
+pip install pymysql
 
 
 
