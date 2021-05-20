@@ -1,5 +1,4 @@
 # -*- coding = utf-8 -*-
-# Author: 物联网203黄雨洋
 # @Time :2021/5/19 9:41
 # @Author: Hanayuzu
 # @File :GUI2
